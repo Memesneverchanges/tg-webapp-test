@@ -1,5 +1,6 @@
 {
   "name": "tg-webapp-test",
+  "homepage": "https://memesneverchanges.github.io/tg-webapp-test/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
